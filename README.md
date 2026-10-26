@@ -1,5 +1,5 @@
 # Stopwatch-js
- Making a stopwatch using Java
+ Making a stopwatch using Javascript timeRef
 
 ## Kullanım
 
